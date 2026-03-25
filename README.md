@@ -2,7 +2,7 @@
 
 ##  Data Engineer | Backend Developer (Big Data)
 
-I am building scalable data pipelines and backend data systems using technologies like **Apache Spark, Kafka, SQL, Python, and NiFi**.
+Passionate about building scalable data pipelines and transforming raw data into meaningful business insights.
 
 ---
 
@@ -21,7 +21,7 @@ I am building scalable data pipelines and backend data systems using technologie
 **Languages**
 - Python  
 - SQL  
-- Scala (basic)
+- Scala
 
 **Data Engineering**
 - Apache Spark (PySpark)  
@@ -33,35 +33,29 @@ I am building scalable data pipelines and backend data systems using technologie
 **Tools**
 - Git  
 - GitHub  
-- Docker (basic)  
+- Docker
 - JIRA  
 
 **Cloud**
-- Azure (basic) 
+- Azure
 - AWS
-- Databricks (learning)
+- Databricks
 
 ---
 
 ##  Projects (In Progress)
 
 ### 🔹 Real-Time Data Pipeline (Kafka + Spark)
-Building an end-to-end pipeline for data ingestion, processing, and storage.
-
----
+Building a streaming pipeline for real-time data ingestion and processing using Kafka and Spark.
 
 ### 🔹 ETL Pipeline with Apache NiFi
-Developing automated workflows for extracting, transforming, and loading data from APIs.
-
----
+Designing automated workflows for extracting, transforming, and loading data from APIs.
 
 ### 🔹 Big Data Processing with Spark
-Working on large-scale data processing using PySpark for transformation and analysis.
-
----
+Developing scalable data transformation and analysis workflows using PySpark.
 
 ### 🔹 Airflow ETL Pipeline
-Creating scheduled workflows (DAGs) to automate data pipelines.
+Creating and orchestrating scheduled data workflows using Airflow DAGs.
 
 ---
 
